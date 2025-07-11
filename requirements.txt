@@ -1,0 +1,13 @@
+ipykernel
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-groq
+langchain-huggingface
+python-dotenv
+langserve
+fastapi
+sse_starlette
+pydantic
+uvicorn
