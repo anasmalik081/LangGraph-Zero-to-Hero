@@ -5,9 +5,12 @@ langchain-community
 langchain-google-genai
 langchain-groq
 langchain-huggingface
+langchain-chroma
 python-dotenv
 langserve
 fastapi
 sse_starlette
 pydantic
 uvicorn
+transformers
+sentence-transformers
