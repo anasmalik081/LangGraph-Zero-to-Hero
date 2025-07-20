@@ -6,6 +6,7 @@ langchain-google-genai
 langchain-groq
 langchain-huggingface
 langchain-chroma
+langgraph
 python-dotenv
 langserve
 fastapi
